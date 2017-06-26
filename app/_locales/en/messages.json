@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "POST_pone",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "chrome extension which improve your SNS experiences",
+    "description": "The description of the application"
+  }
+}
